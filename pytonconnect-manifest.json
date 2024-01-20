@@ -1,5 +1,5 @@
 {
-  "url": "https://t.me/Premfox_bot",                        // required
-  "name": "FoxPrem",                      // required
-  "iconUrl": "https://raw.githubusercontent.com/Krabbik75/pytonconnect/main/icon.jpg"              // required
+  "url": "https://t.me/Premfox_bot",
+  "name": "FoxPrem",        
+  "iconUrl": "https://raw.githubusercontent.com/Krabbik75/pytonconnect/main/icon.jpg"
 }
