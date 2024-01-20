@@ -1,0 +1,7 @@
+{
+  "url": "https://t.me/Premfox_bot",                        // required
+  "name": "FoxPrem",                      // required
+  "iconUrl": "<app-icon-url>",               // required
+  "termsOfUseUrl": "<terms-of-use-url>",     // optional
+  "privacyPolicyUrl": "<privacy-policy-url>" // optional
+}
